@@ -1,0 +1,5 @@
+Создал проект, изучаю поддержку ipv6 в bgp, начал настраивать ipv4, начал писать отчет
+Настраиваю адаптеры windows для подключения ред ос и vesr, т.е. есть проблемы с ними
+https://wiki.astralinux.ru/pages/viewpage.action?pageId=130424502
+https://docs.fortinet.com/document/fortigate/7.4.3/administration-guide/18177/bgp-and-ipv6
+https://networklessons.com/bgp/bgp-ipv6-route-filtering-on-cisco-ios
