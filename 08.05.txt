@@ -1,0 +1,1 @@
+Настроил VRRP, netwatch, делаю GRE
